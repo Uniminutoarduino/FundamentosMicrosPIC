@@ -3,6 +3,7 @@
  * Author: Jonathan
  *
  * Created on 10 de marzo de 2025, 12:34 PM
+ * Este código permite configurar las salidas del microcontrolador PIC18F25K50.
  */
 
 
