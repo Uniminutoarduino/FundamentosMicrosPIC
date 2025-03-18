@@ -3,7 +3,9 @@
 Este es el repositorio con los códigos del curso de Fundamentos de Microcontroladores (Microchip).
 
 *Compilador XC8 versión 2.5*
+
 *MPLABX Versión 6.2*
+
 *Microcontrolador : PIC18F25K50*
 
 
