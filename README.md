@@ -10,4 +10,4 @@ Este es el repositorio con los códigos del curso de Fundamentos de Microcontrol
 
 
 Desarrollador: Profesor Jonathan Álvarez Ariza
-Corporación Universitaria Minuto de Dios-UNIMINUTO, Facultad de Ingeniería, Programa de Tecnología en Electrónica
+Corporación Universitaria Minuto de Dios-UNIMINUTO, Facultad de Ingeniería, Programa de Tecnología en Electrónica, Bogotá, Colombia
